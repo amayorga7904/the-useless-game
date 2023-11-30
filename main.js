@@ -57,3 +57,43 @@ function startGame() {
     buttonTwoTwo.style.display = 'block'
     buttonOne.style.display = 'none'
 }
+
+function stepTwo() {
+    
+}
+
+function stepThree() {
+
+}
+
+function stepFour() {
+
+}
+
+function stepFive() {
+
+}
+
+function stepSix() {
+
+}
+
+function stepSeven() {
+
+}
+
+function stepEight() {
+
+}
+
+function stepNine() {
+
+}
+
+function stepTen() {
+
+}
+
+function stepEleven() {
+
+}
